@@ -2,7 +2,7 @@ package src;
 
 import java.util.List;
 
-public class Parser
+public class  Parser
 {
     private boolean fehler;
 }
